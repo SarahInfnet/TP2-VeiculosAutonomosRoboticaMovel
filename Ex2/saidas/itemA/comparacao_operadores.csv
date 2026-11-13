@@ -1,0 +1,16 @@
+cenario,operador,pixels_ativos,tempo_ms
+Normal,Sobel,6280,2.935
+Normal,LoG,16227,1.674
+Normal,Canny 50/110,3048,0.653
+Normal,Canny 100/200,3048,0.439
+Normal,DoG,22954,1.208
+Sombra,Sobel,8758,3.575
+Sombra,LoG,12978,2.214
+Sombra,Canny 50/110,4300,0.989
+Sombra,Canny 100/200,4300,0.489
+Sombra,DoG,21629,0.463
+Reflexos,Sobel,8741,3.079
+Reflexos,LoG,6367,1.902
+Reflexos,Canny 50/110,4559,0.704
+Reflexos,Canny 100/200,4506,0.404
+Reflexos,DoG,18041,0.46

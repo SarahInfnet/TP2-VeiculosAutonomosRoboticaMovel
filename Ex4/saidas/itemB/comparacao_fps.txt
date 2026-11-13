@@ -1,0 +1,9 @@
+FPS sem YOLO: 3.5631
+FPS com YOLO: 3.4600
+Degradacao percentual: 2.8937%
+Tempo medio de inferencia: 34.0003 ms
+Quantidade de inferencias: 500
+Intervalo YOLO: 1
+Resolucao YOLO: 640
+Steps sem YOLO: 500
+Steps com YOLO: 500
